@@ -1,0 +1,51 @@
+.container{
+    padding-bottom: 44px;
+}
+
+.post{
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.user{
+    margin-left: 16px;
+}
+
+img.user{
+    margin-left: 16px;
+}
+.propic{
+    border-radius: 50%;
+    margin-left: 16px;
+    margin-right: 16px;
+    height: 32px;
+    width: 32px;
+    object-fit: cover;
+}
+
+.options{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    box-sizing: border-box;
+    align-items: center;
+    margin-left: 16px;
+
+}
+.postphoto{
+    width: 100%;
+    object-fit: cover;
+}
+
+.liked{
+    fill:red;
+    margin-right: 16px;
+}
+
+.time{
+    opacity: 40%;
+    text-transform:uppercase;
+    margin-left: 16px;
+}

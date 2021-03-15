@@ -1,6 +1,6 @@
-.post{
+.profile{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 10px;
+    margin-top: 16px;
 }
